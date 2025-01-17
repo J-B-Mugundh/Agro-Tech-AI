@@ -66,14 +66,8 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-xl font-semibold text-green-800 mb-3">8. Contact Us</h2>
             <p className="text-gray-700 leading-relaxed">
-              If you have any questions or concerns about our Privacy Policy, please contact us at:
+              If you have any questions or concerns about our Privacy Policy, please contact us.
             </p>
-            <address className="mt-2 not-italic text-green-700">
-              AgriTech Solutions<br />
-              Madhapur, Hyderabad<br />
-              Email: privacy@agritech.com<br />
-              Phone: (555) 123-4567
-            </address>
           </section>
         </div>
         <div className="bg-green-100 px-6 py-4">
